@@ -30,32 +30,32 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
+global.sig = 'https://www.instagram.com/rudalxd?r=nametag=' //Instagram mu
+global.sgh = 'https://github.com/Rudal-XD' //Github mu
 global.swb = 'https://fangzbot.websites.co.in'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
+global.syt = 'https://youtube.com/channel/UCTuJ142jrkZxS_QnkttTMNQ' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/GiHFAU97vDH2RMzbouUSaY' //Group WhatsApp mu
 global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘PAYMENT⫘⫘⫘⫘⫘*/
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make │bot doang.\n┝‷✧ *Ovo:* 0895321510079\n│┝‷✧ *Dana:* 0895386194665\n│┝‷✧ *Gopay:* 0895386194665\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '62895321510079' //Nomor Bot mu
+global.namebot = 'fanky-xd' //Nama bot mu
+global.nameown = 'fanky' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.swo = 'https://wa.me/6288215689772'
-global.author = '                © Fangz BOT By Fangz' //Wm author
-global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.swo = 'https://wa.me/62895386194665'
+global.author = '                © Fanky-xd BY fanky' //Wm author
+global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *fanky-xd* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.serialimg = 'https://telegra.ph/file/eaf30ca57d5c4c2d7a6f0.jpg'
 global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
@@ -63,15 +63,15 @@ global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
 global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281320170984'], //Owner1
-  ['79680341674'], //Owner2
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['62895321510079'], //Owner1
+  ['62895386194665'], //Owner2
+  ['62895386194665', 'FANKY ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.cheat = [] // ketik .cheat aja
 global.waifu = []
-global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @Fangz 15
+global.prems = [] // Jangan di isi, Tambahin dari bot nya ketik .addprem @user
 
 
 /*⫘⫘⫘⫘ APIKEY ⫘⫘⫘⫘⫘*/
@@ -124,9 +124,9 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '       「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '       「 赤 FANKY - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Fanky - XD❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 FANKY - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
@@ -453,10 +453,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'https://wa.me/6288215689772'
+global.nameowner = 'FANKY'
+global.umurowner = '18'
+global.asalowner = 'klaten,ceper, Jawa tengah'
+global.nomorowner = 'https://wa.me/62895386194665'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
@@ -488,8 +488,8 @@ global.fpagedoc = '1'.repeat(10)
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'YT: FangzXD'
-global.stickauth = `Fangz BOT\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickauth = `Fan\nBOT\nNomor: ${global.nomorbot}`
+global.packname = 'By Fanky'
 
 
 global.multiplier = 38 // The higher, The harder levelup
